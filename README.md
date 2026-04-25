@@ -1,17 +1,57 @@
-TAG TO MEN
+# TAG TO MEN
 
-A premium menswear Flutter application.
+A premium menswear Flutter application designed to provide a modern and smooth shopping experience.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## About the App
 
-A few resources to get you started if this is your first Flutter project:
+TAG TO MEN is a modern mobile application developed using Flutter.
+It allows users to browse stylish men's clothing, view product details, and manage their shopping experience easily.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+* User Registration and Login
+* Browse Products (Shirts, T-Shirts, etc.)
+* View Product Details
+* Add to Cart
+* Checkout with Payment Options
+* User Profile Management
+* Clean and Modern UI Design
+
+
+## Technologies Used
+
+* Flutter (Dart)
+* Visual Studio Code
+* Figma (UI/UX Design)
+
+
+## How to Run the App
+
+1. Clone this repository
+2. Open the project in Visual Studio Code
+3. Run the following command:
+   flutter pub get
+4. Run the app:
+   flutter run
+
+
+## Project Structure
+
+* lib/ → Main Dart source code
+* assets/ → Images and resources
+* web/ → Web support files
+* android/ → Android configuration
+
+
+## Author
+
+NISHATH RIZVI
+Index Number: 23DA2-1016
+Bachelor of Applied IT
+ICST University
+
+## Note
+
+This project is developed for academic purposes as part of coursework submission.
