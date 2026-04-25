@@ -48,8 +48,11 @@ It allows users to browse stylish men's clothing, view product details, and mana
 ## Author
 
 NISHATH RIZVI
+
 Index Number: 23DA2-1016
+
 Bachelor of Applied IT
+
 ICST University
 
 ## Note
